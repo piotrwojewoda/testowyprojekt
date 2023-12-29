@@ -5,6 +5,6 @@ class NowaKlasa
 {
     public function __construct()
     {
-        echo "Nowa blabla";
+        echo "Nowa wersja";
     }
 }
