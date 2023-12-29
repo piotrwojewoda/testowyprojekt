@@ -1,0 +1,19 @@
+{
+    "name": "piotrwojewoda/testowyprojekt",
+    "description": "brak",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Piotrwojewoda\\Testowyprojekt\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Piotr Wojewoda",
+            "email": "piotr.wojewoda.php@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
